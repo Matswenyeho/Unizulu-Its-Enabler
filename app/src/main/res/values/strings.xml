@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Unizulu ITS Enabler</string>
+    <string name="admin">Admin</string>
+    <string name="degree_type">Degree Type</string>
+    <string name="enter_your_tittle">enter your tittle</string>
+    <string name="create_your_password">create your password</string>
+    <string name="enter_your_email_addres">enter your email addres</string>
+    <string name="enter_your_names">enter your names</string>
+    <string name="enter_your_phone_number">enter your phone number</string>
+    <string name="enter_your_initials">enter your initials</string>
+    <string name="enter_the_year_you_are_registering_for">enter the year you are registering for</string>
+    <string name="enter_your_surname">enter your surname</string>
+    <string name="employee">Employee</string>
+    <string name="firstname">Firstname</string>
+    <string name="email_address">Email Address</string>
+    <string name="identitification">Identitification</string>
+    <string name="todo">todo</string>
+    <string name="initials">Initials</string>
+    <string name="password">Password</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="register">REGISTER</string>
+    <string name="registration_form">Registration Form</string>
+    <string name="registration_number">Registration Number</string>
+    <string name="residential_address">Residential Address</string>
+    <string name="student">Student</string>
+    <string name="surname">Surname</string>
+    <string name="tittle">Tittle</string>
+    <string name="year">Year</string>
+    <string name="identification">Identification</string>
+    <string name="enter_your_student_number">enter your student number</string>
+    <string name="enter_your_employee_number">enter your employee number</string>
+    <string name="employee_number">Employee Number</string>
+    <string name="registrant">Registrant</string>
+    <string name="enter_id_number">Enter ID NUMBER</string>
+    <string name="enter_your_passport_number">Enter YOUR Passport Number</string>
+    <string name="password_reg">password_reg\n</string>
+    <string name="identity_number">identity_number</string>
+    <string name="enter_your_identity_number">enter your identity\n</string>
+    <string name="student_number">studentno</string>
+    <string name="email_address_reg">email adress</string>
+    <string name="enter_your_resident_name">res</string>
+    <string name="post_grad">post</string>
+    <string name="under_grad">under</string>
+    <string name="select_your_tittle">select your tittle</string>
+    <string name="unizulu_portal">Unizulu Portal</string>
+
+    <string-array name="Tittle">
+        <item>Select Your Tittle</item>
+        <item>Miss</item>
+        <item>Mr</item>
+        <item>Mrs</item>
+
+    </string-array>
+    <string-array name="Registrant">
+        <item>Select your category</item>
+        <item>Student</item>
+        <item>Employee</item>
+
+    </string-array>
+    <string-array name="array_identification">
+        <item>Select Your Identification Type</item>
+        <item>Identity Number</item>
+        <item>Passport Number</item>
+    </string-array>
+
+    <string-array name="Resident">
+        <item>Select Your Resident</item>
+        <item>East</item>
+        <item>West</item>
+        <item>BlueTowers</item>
+        <item>Off_Campus</item>
+    </string-array>
+    <string-array name="DegreeType">
+        <item>Select the degree</item>
+        <item>Under Grad</item>
+        <item>Post Grad</item>
+    </string-array>
+</resources>
